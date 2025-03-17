@@ -1,4 +1,4 @@
-# PDF Summarizer and Chatbot using LLaMa2 in Streamlit
+# PDF Summarizer Chatbot using LLaMa2 
 
 ## Project Overview
 
